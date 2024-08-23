@@ -9,8 +9,8 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: Christian Ezeani
-subtitle: Full-Stack Developer
+title: Yu-Eop Kang 
+subtitle: Ph. D. Candidate
 
 # left_side:
 #   background_image: "./assets/images/left-background.jpg"
@@ -23,38 +23,38 @@ footer:
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: Home
     link: /
     icon: ""
 
-  - text: Skills & Offers
-    link: /skills-and-offers
+  - text: Experiences
+    link: /Experiences
     icon: ""
 
-  - text: Contact Me
-    link: /contact
+  - text: Publications
+    link: /Publications
     icon: ""
 
-  - text: My Resume
-    link: /resume
+  - text: CV
+    link: /CV
     icon: ""
 
-  - text: Blog Posts
+  - text: News
     link: /blog
     icon: ""
 
 # Socialmedia Icons
 social_icons:
   - name: linkedin
-    link: https://www.linkedin.com/christianezeani
+    link: https://www.linkedin.com/in/yu-eop-kang-6b5303197/
     icon: fab fa-linkedin
 
   - name: github
-    link: https://github.com/christianezeani
+    link: https://github.com/yueop-kang
     icon: fab fa-github-square
 
-  - name: facebook
-    link: https://www.facebook.com/christian.ezeani.cyb
+  - name: google scholar
+    link: https://scholar.google.co.kr/citations?user=tH3HI_wAAAAJ&hl=en&oi=ao
     icon: fab fa-facebook-square
 
   - name: twitter
