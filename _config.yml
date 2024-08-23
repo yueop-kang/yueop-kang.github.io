@@ -15,8 +15,8 @@ subtitle: Research Engineer
 left_side:
   background_image: "./assets/images/left-background.jpg"
   background_color: "#424242"
-  close_button_color: "#F00"
-  text_color: "#F00"
+  close_button_color: "#fcfafa"
+  text_color: "#fcfafa"
 
 footer:
   copyright_text: "&copy; Christian Ezeani"
