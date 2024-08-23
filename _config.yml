@@ -10,7 +10,7 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 
 title: Yu-Eop Kang 
-subtitle: Ph. D. Candidate
+subtitle: Research Engineer
 
 # left_side:
 #   background_image: "./assets/images/left-background.jpg"
@@ -27,7 +27,11 @@ menu:
     link: /
     icon: ""
 
-  - text: Experiences
+  - text: About
+    link: /About
+    icon: ""
+
+  - text: Research Interest
     link: /Experiences
     icon: ""
 
