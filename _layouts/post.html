@@ -2,24 +2,29 @@
 layout: default
 ---
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
-</div>
+<section class="post-view">
+  {% if page.image %}
+  <div class="post-view__image">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
 
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+  <div class="post-view__header">
+    <h1>{{ page.title }}</h1>
+    <div class="post-view__info">
+      <span><strong>Date:</strong> {{ page.date | date: '%Y, %b %d' }}</span>
+    </div>
+  </div>
+
+  {% include addons/share.html %}
+  
+  <div class="post-view__body">
+    {{ content }}
+  </div>
+
+  {% include addons/share.html %}
+
+  {% include posts/related.html %}
+
+  {% include addons/comments.html %}
+</section>
