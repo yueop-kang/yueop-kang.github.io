@@ -1,32 +1,14 @@
 ---
 layout: default
-title: Your Page Title
+title: Research Topic
 ---
 
 
-<table style="width:100%; text-align:center; table-layout:fixed;">
-  <tr>
-    <td>
-      <a href="{{ site.baseurl }}/research_topic1.md">
-        <img src="assets/images/test-image.jpg" alt="Figure 1" style="width:100%; max-width:300px;">
-      </a>
-    </td>
-    <td>
-      <a href="{{ site.baseurl }}/research_topic2.md">
-        <img src="assets/images/test-image.jpg" alt="Figure 1" style="width:100%; max-width:300px;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="{{ site.baseurl }}/research_topic3.md">
-        <img src="assets/images/test-image.jpg" alt="Figure 1" style="width:100%; max-width:300px;">
-      </a>
-    </td>
-    <td>
-      <a href="{{ site.baseurl }}/research_topic4.md">
-        <img src="assets/images/test-image.jpg" alt="Figure 1" style="width:100%; max-width:300px;">
-      </a>
-    </td>
-  </tr>
-</table>
+
+[![Research Topic 1](assets/images/test-image.jpg)](/research_topic1.md)
+
+[![Research Topic 2](assets/images/test-image.jpg)](/research_topic2.md)
+
+[![Research Topic 3](assets/images/test-image.jpg)](/research_topic3.md)
+
+[![Research Topic 4](assets/images/test-image.jpg)](/research_topic4.md)
