@@ -10,7 +10,8 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 
 title: Yu-Eop Kang 
-subtitle: Research Engineerg
+subtitle: Research Engineer
+description: ML/AI for Aircraft Design
 
 left_side:
   background_image: "./assets/images/left-background.jpg"
@@ -59,7 +60,7 @@ social_icons:
 
   - name: google scholar
     link: https://scholar.google.co.kr/citations?user=tH3HI_wAAAAJ&hl=en&oi=ao
-    icon: google_scholar
+    icon: fab fa-google_scholar
 
 
     
