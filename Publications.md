@@ -1,6 +1,50 @@
----
+## Publications
+
+### Preprints
+- **Intuitive and Feasible Geometric Representation of Airfoil using Variational Autoencoder**  
+  ***Yu-Eop Kang***, *Dawoon Lee*, and *Kwanjung Yee*  
+  2024  
+  [ABS](#) | [ARXIV](https://arxiv.org/abs/2311.10921) | [PDF](#)
+
+
+Evaluation of snow accumulation simulation on a train using experimental results
+S Shon, WG Ji, B Kim, YE Kang, K Yee
+Journal of Wind Engineering and Industrial Aerodynamics 232, 105275	4	2023
+
+### 2023
+
+- **Evaluation of snow accumulation simulation on a train using experimental results**  
+  *Soonho Shon*, *Wangu Ji*, *Bumsoo Kim*, ***Yu-Eop Kang***, *Kwanjung Yee*
+  *Journal of Wind Engineering and Industrial Aerodynamics*
+  [ARXIV](#)
+
 ---
 
-# Contact Me
+### 2022
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Etiam dignissim diam quis enim. Tincidunt arcu non sodales neque. Pharetra pharetra massa massa ultricies. Massa vitae tortor condimentum lacinia quis vel eros. Lectus vestibulum mattis ullamcorper velit. Mauris cursus mattis molestie a iaculis. Faucibus interdum posuere lorem ipsum. Tristique risus nec feugiat in fermentum posuere. Egestas integer eget aliquet nibh praesent tristique magna sit. Diam donec adipiscing tristique risus nec feugiat in fermentum. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Id porta nibh venenatis cras sed felis. Erat pellentesque adipiscing commodo elit at imperdiet dui. A arcu cursus vitae congue mauris. Vitae justo eget magna fermentum iaculis eu non diam. Faucibus nisl tincidunt eget nullam non nisi est sit.
+- **Physics-aware Reduced-order Modeling of Transonic Flow via $\beta$-variational Autoencoder**  
+  ***Yu-Eop Kang***, *Sunwoong Yang*, and *Kwanjung Yee*  
+  *Physics of Fluids*  
+  [ABS](#) | [ARXIV](#) | [PDF](#)
+
+- **Local Non-intrusive Reduced-order Modeling based on Soft Clustering and Classification Algorithm**  
+  ***Yu-Eop Kang***, *Soonho Shon*, and *Kwanjung Yee*  
+  *International Journal for Numerical Methods in Engineering*  
+  [ARXIV](#)
+
+- **Aeroelastic Design and Comprehensive Analysis of Composite Rotor Blades through Cluster-based Kriging**  
+  *Dawoon Lee*, ***Yu-Eop Kang***, and *Kwanjung Yee*  
+  *AIAA Journal*  
+  [ARXIV](#)
+
+- **Design of Hybrid Airfoils for Icing Tunnel Tests Based on Reduced-Order Modeling Methods**  
+  *Soonho Shon*, ***Yu-Eop Kang***, *Yoonpyo Hong*, *Kwanjung Yee*, *Rho Shin Myong*
+  *Journal of Aircraft*  
+  [ARXIV](#)
+
+- **Proper Orthogonal Decomposition of Continuum-dominated Emission Spectra for Simultaneous Multi-property Measurements**  
+  *Taekeun Yoon*, ***Yu-eop Kang***, *Seon Woong Kim*, *Youchan Park*, *Kwanjung Yee*, *Campbell D Carter*, *Stephen D Hammack*, *Hyungrok Do*
+  *Energy*  
+  [ARXIV](#)
+
+---
