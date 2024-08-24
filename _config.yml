@@ -28,7 +28,7 @@ menu:
     icon: ""
 
   - text: Profile
-    link: /Profile.html
+    link: /Profile
     icon: ""
 
   - text: Research Interest
