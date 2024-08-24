@@ -2,8 +2,14 @@
 ---
 
 # Profile
-
-<div style="display: flex; align-items: center;"> <img src="/assets/images/profile1.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 150px; height: 150px; margin-right: 20px;"> <div> <h1>Yu-Eop Kang, Ph.D. Candidate</h1> <p><strong>Research Engineer</strong><br> Aerospace Engineering Department,<br> Seoul National University (SNU)</p> <p>Email: <a href="mailto:kye72594@snu.ac.kr">kye72594@snu.ac.kr</a></p> </div> </div>
+<div style="display: flex; align-items: center; flex-direction: row-reverse;">
+    <img src="assets/images/profile1.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 200px; height: 200px; margin-left: 170px;">
+    <div>
+        <h1>Yu-Eop Kang</h1>
+        <p><strong>Research Engineer</strong><br> Aerospace Engineering Department,<br> Seoul National University (SNU)</p>
+        <p>Email: <a href="mailto:kye72594@snu.ac.kr">kye72594@snu.ac.kr</a></p>
+    </div>
+</div>
 
 ## Education
 
