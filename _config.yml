@@ -9,8 +9,6 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-baseurl: "/yueop-kang"
-
 title: Yu-Eop Kang 
 subtitle: Research Engineer
 description: ML/AI for Aircraft Design
