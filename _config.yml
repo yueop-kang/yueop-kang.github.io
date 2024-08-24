@@ -14,7 +14,7 @@ subtitle: Research Engineer
 description: ML/AI for Aircraft Design
 
 left_side:
-  background_image: "./assets/images/left-background.jpg"
+  #background_image: "./assets/images/left-background.jpg"
   background_color: "#424242"
   close_button_color: "#fcfafa"
   text_color: "#fcfafa"
