@@ -55,7 +55,7 @@
 
   
 ---
-
+<br></br>
 # **Oral Presentations**
 - **"Leveraging Deep Neural Networks for Efficient Prediction of Aerodynamic Performance Tables"**  
   <u><strong><i>Yu-Eop Kang</i></strong></u>, *Dawoon Lee*, *Yoonpyo Hong*, *Sunwoong Yang* and *Kwanjung Yee*  
