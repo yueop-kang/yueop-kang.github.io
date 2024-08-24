@@ -9,7 +9,7 @@
 ---
 ### 2023
 
-- **"Evaluation of snow accumulation simulation on a train using experimental results"**  
+- **"Evaluation of Snow Accumulation Simulation on a Train using Experimental Results"**  
   *Soonho Shon*, *Wangu Ji*, *Bumsoo Kim*, ***Yu-Eop Kang***, *Kwanjung Yee*   
   *Journal of Wind Engineering and Industrial Aerodynamics*   
   [DOI](https://doi.org/10.1016/j.jweia.2022.105275)
@@ -18,7 +18,7 @@
 
 ### 2022
 
-- **"Physics-aware Reduced-order Modeling of Transonic Flow via $\beta$-variational Autoencoder"**  
+- **"Physics-aware Reduced-order Modeling of Transonic Flow via Beta-variational Autoencoder"**  
   ***Yu-Eop Kang***, *Sunwoong Yang*, and *Kwanjung Yee*  
   *Physics of Fluids*  
   [DOI](https://doi.org/10.1063/5.0097740)
