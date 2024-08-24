@@ -1,3 +1,9 @@
+---
+layout: default
+title: Your Page Title
+---
+
+
 <table style="width:100%; text-align:center; table-layout:fixed;">
   <tr>
     <td>
