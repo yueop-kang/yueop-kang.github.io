@@ -6,7 +6,7 @@
     <div style="display: flex; justify-content: flex-start; align-items: flex-start; width: 100%; max-width: 800px; margin-bottom: 10px;">
         <div style="flex-grow: 1;">
             <h1>Yu-Eop Kang</h1>
-            <span style="font-size:1.1em;"><p><strong>Ph.D. Candiate</strong><br>
+            <span style="font-size:1.0em;"><p><strong>Ph.D. Candiate</strong><br>
             Aerospace Engineering Department,<br>
             Seoul National University (SNU)</p>
             <p>Contact: <a href="mailto:kye72594@snu.ac.kr">kye72594@snu.ac.kr</a></p>
@@ -21,11 +21,11 @@
     <!-- Education Section -->
     <div style="width: 100%; max-width: 800px;">
         <h2>Education</h2>
-        <p><strong>M.S. to Ph.D. (2018.09 ~ 2025.02)</strong><br> Dept. of Aerospace Engineering, Seoul National University</p>
+        <span style="font-size:1.0em;"><p><strong>M.S. to Ph.D. (2018.09 ~ 2025.02)</strong><br> Dept. of Aerospace Engineering, Seoul National University</p>
         <ul>
             <li>Thesis: Efficient Performance Analysis and Design Optimization of Rotor Blades using Deep Neural Networks</li>
             <li>Advisor: Prof. Kwanjung Yee</li>
         </ul>
-        <p><strong>B.S. (2014.03 ~ 2018.08)</strong> <br> Dept. of Mechanical and Aerospace Engineering, Seoul National University</p>
+        <p><strong>B.S. (2014.03 ~ 2018.08)</strong> <br> Dept. of Mechanical and Aerospace Engineering, Seoul National University</p></span>
     </div>
 </div>
