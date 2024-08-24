@@ -13,7 +13,7 @@
             <p><strong>Upcoming talks</strong>
             <br>
             <li>Aviation 2024 Forum (07/30)</li>
-            </p>
+            </p></span>
         </div>
         <img src="assets/images/profile2.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 300px;  height: auto; margin-left: 20px;">
     </div>
