@@ -5,14 +5,14 @@
     <!-- Profile Section -->
     <div style="display: flex; justify-content: flex-start; align-items: flex-start; width: 100%; max-width: 800px; margin-bottom: 10px;">
         <div style="flex-grow: 1;">
-            <h1>Yu-Eop Kang, Ph.D. Candiate</h1>
-            <p><strong>Research Engineer</strong><br>
+            <h1>Yu-Eop Kang</h1>
+            <span style="font-size:1.1em;"><p><strong>Ph.D. Candiate</strong><br>
             Aerospace Engineering Department,<br>
             Seoul National University (SNU)</p>
             <p>Contact: <a href="mailto:kye72594@snu.ac.kr">kye72594@snu.ac.kr</a></p>
             <p><strong>Upcoming talks</strong>
             <br>
-            <li>Aviation 2024 Forum (07/30, Las Vegas)</li>
+            <li>Aviation 2024 Forum (07/30)</li>
             </p>
         </div>
         <img src="assets/images/profile2.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 350px;  height: auto; margin-left: 20px;">
