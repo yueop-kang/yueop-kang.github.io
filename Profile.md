@@ -2,17 +2,18 @@
 ---
 
 # Profile
-<div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="assets/images/profile1.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 200px; height: 200px; margin-left: 170px;">
-    <div>
-        <h1>Yu-Eop Kang</h1>
-        <p><strong>Research Engineer</strong><br> Aerospace Engineering Department,<br> Seoul National University (SNU)</p>
-        <p>Email: <a href="mailto:kye72594@snu.ac.kr">kye72594@snu.ac.kr</a></p>
+<div style="display: flex; align-items: center; flex-direction: row-reverse; gap: 20px;">
+    <img src="assets/images/profile2.jpg" alt="Yu-Eop Kang" style="border-radius: 2%; width: 300px; height: 300px;">
+    <div style="text-align: left;">
+        <h1 style="margin: 0;">Yu-Eop Kang</h1>
+        <p style="margin: 5px 0 0 0;"><strong>Research Engineer</strong><br> Aerospace Engineering Department,<br> Seoul National University (SNU)</p>
+        <p style="margin: 5px 0 0 0;">Email: <a href="mailto:kye72594@snu.ac.kr">kye72594@snu.ac.kr</a></p>
     </div>
 </div>
 
-## Education
 
+---
+## Education
 
 <div class="education">
     <h3>Combined M.S. and Ph.D., 2018.09 ~ 2025.02, Dept. of Aerospace Engineering, Seoul National University</h3>
