@@ -28,7 +28,7 @@ menu:
     icon: ""
 
   - text: Profile
-    link: /Profile
+    link: /Profile.html
     icon: ""
 
   - text: Research Interest
@@ -59,11 +59,7 @@ social_icons:
 
   - name: google scholar
     link: https://scholar.google.co.kr/citations?user=tH3HI_wAAAAJ&hl=en&oi=ao
-    icon: fab fa-facebook-square
-
-  - name: twitter
-    link: https://www.twitter.com/christianezeani
-    icon: fab fa-twitter
+    icon: google_scholar
 
 
     
