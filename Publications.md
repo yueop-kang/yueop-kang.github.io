@@ -6,11 +6,7 @@
   2024  
   [ABS](#) | [ARXIV](https://arxiv.org/abs/2311.10921) | [PDF](#)
 
-
-Evaluation of snow accumulation simulation on a train using experimental results
-S Shon, WG Ji, B Kim, YE Kang, K Yee
-Journal of Wind Engineering and Industrial Aerodynamics 232, 105275	4	2023
-___
+---
 ### 2023
 
 - **"Evaluation of snow accumulation simulation on a train using experimental results"**  
@@ -48,3 +44,10 @@ ___
   [ARXIV](#)
 
 ---
+
+### 2021
+
+- **"Initial Bead Growth and Distribution under Low Speed Icing Condition"**  
+  ***Yu-Eop Kang***, *Seungin Min*,*Taeseong Kim*, and *Kwanjung Yee*  
+  *International Journal of Heat and Mass Transfer*  
+  [ABS](#) | [ARXIV](#) | [PDF](#)
