@@ -10,7 +10,7 @@
 ### 2023
 
 - **"Evaluation of Snow Accumulation Simulation on a Train using Experimental Results"**  
-  *Soonho Shon*, *Wangu Ji*, *Bumsoo Kim*, ***Yu-Eop Kang***, *Kwanjung Yee*   
+  *Soonho Shon*, *Wan Gu Ji*, *Beomsoo Kim*, ***Yu-Eop Kang***, *Kwanjung Yee*   
   *Journal of Wind Engineering and Industrial Aerodynamics*   
   [DOI](https://doi.org/10.1016/j.jweia.2022.105275)
 
@@ -35,12 +35,12 @@
 
 
 - **"Design of Hybrid Airfoils for Icing Tunnel Tests Based on Reduced-Order Modeling Methods"**  
-  *Soonho Shon*, ***Yu-Eop Kang***, *Yoonpyo Hong*, *Kwanjung Yee*, *Rho Shin Myong*
+  *Soonho Shon*, ***Yu-Eop Kang***, *Yoonpyo Hong*, *Kwanjung Yee*, *Rho Shin Myong*  
   *Journal of Aircraft*  
   [DOI](https://doi.org/10.2514/1.C036435)
 
 - **"Proper Orthogonal Decomposition of Continuum-dominated Emission Spectra for Simultaneous Multi-property Measurements"**  
-  *Taekeun Yoon*, ***Yu-eop Kang***, *Seon Woong Kim*, *Youchan Park*, *Kwanjung Yee*, *Campbell D Carter*, *Stephen D Hammack*, *Hyungrok Do*
+  *Taekeun Yoon*, ***Yu-eop Kang***, *Seon Woong Kim*, *Youchan Park*, *Kwanjung Yee*, *Campbell D Carter*, *Stephen D Hammack*, *Hyungrok Do*   
   *Energy*  
   [DOI](https://doi.org/10.1016/j.energy.2022.124458)
 
