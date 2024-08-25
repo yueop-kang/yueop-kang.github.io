@@ -33,20 +33,20 @@ title: Research Topic
       width: 90%;
       transform: translate(-50%, -50%);
       color: #201919; /* Dark red color */
-      font-size: 24px; /* Slightly larger font size */
+      font-size: 28px; /* Slightly larger font size */
       font-weight: bold;
       opacity: 0;
       text-align: center; /* Center text within the overlay */
       display: flex; /* Use flexbox to center content */
       justify-content: center; /* Center horizontally */
       align-items: center; /* Center vertically */
-      transition: opacity 0.3s ease;
+      transition: opacity 0.5s ease;
       pointer-events: none;
     }
   
     a:hover img {
       filter: blur(5px);
-      transition: filter 0.3s ease;
+      transition: filter 0.5s ease;
     }
   
     a:hover .overlay {

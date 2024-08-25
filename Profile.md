@@ -6,11 +6,12 @@
     <div style="display: flex; justify-content: flex-start; align-items: flex-start; width: 100%; max-width: 1000px; margin-bottom: 10px;">
         <div style="flex-grow: 1;">
             <h1>Yu-Eop Kang</h1>
-            <span style="font-size:1.0em;"><p style="line-height: 1.7;"><strong>Ph.D. Candiate</strong><br style="margin-bottom: 10px;">
+            <span style="font-size:1.0em;"><p style="line-height: 1.7;">
+            <strong>Ph.D. Candiate</strong><br style="margin-bottom: 10px;">
             Aerospace Engineering Department,<br>
             Seoul National University (SNU)</p>
             <p>Contact: <a href="mailto:kye72594@snu.ac.kr">kye72594@snu.ac.kr</a></p>
-            <hr style="width: 100%; max-width: 1000px; margin-bottom: 20px;">
+            <hr style="width: 100%; max-width: 1000px; margin-bottom: 10px;">
             <p style="line-height: 1.7;"><strong>Research Interests</strong>
             <br>
             <li>Data-driven Reduced-order Modeling</li>
@@ -18,9 +19,9 @@
             <li>Experimental Data Processing</li>
             </p></span>
         </div>
-        <img src="assets/images/profile3.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 250px;  height: auto; margin-left: 10px;">
+        <img src="assets/images/profile3.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 250px;  height: auto; margin-left: 20px;">
     </div>
-    <hr style="width: 100%; max-width: 1000px; margin-bottom: 20px;">
+    <hr style="width: 100%; max-width: 1000px; margin-bottom: 10px;">
     <!-- Education Section -->
     <div style="width: 100%; max-width: 1000px;">
         <h1>Education</h1>
