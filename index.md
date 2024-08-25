@@ -22,9 +22,9 @@ layout: default
 <h3>Research highlights:</h3>
 <p style="font-size: 1em; line-height: 1.7;">
   <ul style="list-style-position: inside; line-height: 1.5; padding-left: 0; margin-left: 0;">
-    <li style="margin-left: 10px;">Data processing of climatic wind tunnel test data using ML, including image processing and sparse reconstruction.</li>
-    <li style="margin-left: 10px;">Development of reduced-order modeling algorithms to improve the accuracy, robustness, and interpretability.</li>
-    <li style="margin-left: 10px;">Development of an efficient framework for aerodynamic shape optimisation using generative modelling and surrogate models.</li>
+    <li style="margin-left: 10px;">Development of <a href="/reserach_topic2" style="color: inherit; text-decoration: underline;">ROM algorithms</a>  to improve the accuracy, robustness, and interpretability.</li>
+    <li style="margin-left: 10px;">Development of an <a href="/reserach_topic1" style="color: inherit; text-decoration: underline;">efficient framework</a> for <a href="/reserach_topic3" style="color: inherit; text-decoration: underline;">aerodynamic design optimization</a> using generative modelling and surrogate models.</li>
+    <li style="margin-left: 10px;"><a href="/reserach_topic4" style="color: inherit; text-decoration: underline;">Data processing</a> of climatic wind tunnel test data using ML, including image processing and sparse reconstruction.</li>
   </ul>
 </p>
 
