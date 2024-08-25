@@ -3,7 +3,7 @@ layout: default
 title: Research Topic
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 40px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 0px;">
     <a href="/research_topic1" style="position: relative; margin: 0 40px;">
       <img src="assets/images/Airfoil_Brain.jpg" alt="Figure 1" class="blur-image" style="border-radius: 1%; width: 100%; max-width: 500px; height: auto; display: block; margin-bottom: 40px;"/>
       <div class="overlay">Framework Development</div>
@@ -13,12 +13,12 @@ title: Research Topic
       <div class="overlay">Data-driven ROM</div>
     </a>
 </div>
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 0px;">
     <a href="/research_topic3" style="position: relative; margin: 0 40px;">
       <img src="assets/images/aircraft_design.jpg" alt="Figure 3" class="blur-image" style="border-radius: 1%; width: 100%; max-width: 500px; height: auto; display: block; margin-bottom: 40px;"/>
       <div class="overlay">ML/AL for Aerodynamic Design</div>
     </a>
-    <a href="/research_topic4" style="position: relative; margin: 0 20px;">
+    <a href="/research_topic4" style="position: relative; margin: 0 40px;">
       <img src="assets/images/data_processing.jpg" alt="Figure 4" class="blur-image" style="border-radius: 1%; width: 100%; max-width: 500px; height: auto; display: block; margin-bottom: 40px;"/>
       <div class="overlay">Experimental Data Processing</div>
     </a>
