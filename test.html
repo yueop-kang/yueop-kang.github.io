@@ -1,57 +1,33 @@
+<div style="padding: 20px; max-width: 1200px; margin: 0 auto;">
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 00px;">
-    <a href="/research_topic1" style="position: relative; margin: 0 40px;">
-      <img src="assets/images/Airfoil_Brain.jpg" alt="Figure 1" class="blur-image" style="border-radius: 1%; width: 100%; max-width: 500px; height: auto; display: block; margin-bottom: 40px;"/>
-      <div class="overlay">Framework Development</div>
-    </a>
-    
-    <a href="/research_topic2" style="position: relative; margin: 0 40px;">
-      <img src="assets/images/ROM.jpg" alt="Figure 2" class="blur-image" style="border-radius: 1%; width: 100%; max-width: 500px; height: auto; display: block; margin-bottom: 40px;"/>
-      <div class="overlay">Data-driven ROM</div>
-    </a>
+    <h2 style="text-align: left; margin-bottom: 70px;">Data-driven Reduced-order Modeling</h2>
 
+    <hr style="width: 100%; max-width: 1250px; margin-bottom: 10px; border: none; height: 1.5px; background-color: #d6d6d6;">
+
+    <div style="display: flex; align-items: flex-start;">
+
+        <!-- Left Side: Images -->
+        <div style="flex: 1; max-width: 40%; padding-right: 20px;">
+            <img src="assets/images/ROM.jpg" alt="Image 2" style="width: 100%; height: auto; margin: 0;">
+        </div>
+
+        <!-- Right Side: Text Content -->
+        <div style="flex: 1.5; max-width: 60%; padding-left: 20px; margin: 0;">
+
+            <h3 style="color: #aa0303; margin-top: 0;">Local non-intrusive reduced-order modeling based on soft clustering and classification</h3>
+
+            <p style="margin-top: 0;">
+                Local NIROM has been proposed to improve the model accuracy in highly nonlinear problems in which distinct characteristic regimes coexist. 
+                However, the existing local NIROM not only partitions the individual models in a mutually exclusive manner, but also uses a single model for prediction. 
+                This results in the extrapolation of surrogate models and the generation of artificial discontinuities. 
+            </p>
+            <p>
+                To mitigate these problems, a local NIROM that allows flexible overlapping of individual NIROMs is developed. 
+                This method softly partitions and combines individual NIROMs using machine learning techniques, such as fuzzy c-means and multinomial logistic regression. 
+                Furthermore, a variance-based adaptive sampling technique that can consider both local exploitation and global exploration is applied to improve model accuracy.
+            </p>
+        </div>
+    </div>
+
+    <hr style="width: 100%; max-width: 1250px; margin-bottom: 10px; border: none; height: 1.5px; background-color: #d6d6d6;">
 </div>
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 00px;">
-    <a href="/research_topic3" style="position: relative; margin: 0 40px;">
-      <img src="assets/images/aircraft_design.jpg" alt="Figure 3" class="blur-image" style="border-radius: 1%; width: 100%; max-width: 500px; height: auto; display: block; margin-bottom: 40px;"/>
-      <div class="overlay">ML/AL for Aerodynamic Design</div>
-    </a>
-
-    <a href="/research_topic4" style="position: relative; margin: 0 40px;">
-      <img src="assets/images/data_processing.jpg" alt="Figure 4" class="blur-image" style="border-radius: 1%; width: 100%; max-width: 500px; height: auto; display: block; margin-bottom: 40px;"/>
-      <div class="overlay">Experimental Data Processing</div>
-    </a>
-</div>
-
-<style>
-    .blur-image {
-      filter: blur(5px); /* Apply blur by default */
-      transition: filter 0.5s ease; /* Smooth transition for the blur effect */
-    }
-
-    .overlay {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      width: 90%;
-      transform: translate(-50%, -50%);
-      color: #201919; /* Text color */
-      font-size: 28px; /* Font size */
-      font-weight: bold;
-      opacity: 1; /* Start with the text visible */
-      text-align: center; /* Center text within the overlay */
-      display: flex; /* Use flexbox to center content */
-      justify-content: center; /* Center horizontally */
-      align-items: center; /* Center vertically */
-      transition: opacity 0.5s ease;
-      pointer-events: none;
-    }
-  
-    a:hover .blur-image {
-      filter: none; /* Remove blur on hover */
-    }
-  
-    a:hover .overlay {
-      opacity: 0; /* Fade out text on hover */
-    }
-</style>
