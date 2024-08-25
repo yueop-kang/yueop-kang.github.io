@@ -10,10 +10,6 @@
             Aerospace Engineering Department,<br>
             Seoul National University (SNU)</p>
             <p>Contact: <a href="mailto:kye72594@snu.ac.kr">kye72594@snu.ac.kr</a></p>
-            <!-- <p><strong>Upcoming talks</strong>
-            <br>
-            <li>Aviation 2024 Forum (07/30)</li>
-            </p></span> -->
             <hr style="width: 100%; max-width: 800px; margin-bottom: 20px;">
             <p style="line-height: 2.0;"><strong>Research Interests</strong>
             <br>
@@ -24,6 +20,7 @@
         </div>
         <img src="assets/images/profile3.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 300px;  height: auto; margin-left: 20px;">
     </div>
+    <hr style="width: 100%; max-width: 800px; margin-bottom: 20px;">
     <!-- Education Section -->
     <div style="width: 100%; max-width: 800px;">
         <h2>Education</h2>
