@@ -20,7 +20,8 @@
   *Journal of Wind Engineering and Industrial Aerodynamics*   
  
   <a href="https://doi.org/10.1016/j.jweia.2022.105275" style="text-decoration: none; border: 1px solid  #0882D5; padding: 2.5px 5px; margin-right: 5px; border-radius: 3px;">DOI</a>
-  <a href="#" style="text-decoration: none; border: 1px solid #d7d8db; padding: 2.5px 5px; color: #d7d8db; border-radius: 3px;">PDF</a>
+  <a href="#" style="text-decoration: none; border: 1px solid #d7d8db; padding: 2.5px 5px; color: #d7d8db; border-radius: 3px;">PDF</a>  
+
 ---
 
 ### 2022
