@@ -5,7 +5,7 @@ title: Research Topic
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 20px;">
     <a href="/research_topic1" style="position: relative; margin: 0 20px;">
-      <img src="assets/images/airfoil_brain.jpg" alt="Figure 1" class="blur-image" style="border-radius: 1%; width: 100%; max-width: 550px; height: auto; display: block; margin-bottom: 2ch;"/>
+      <img src="assets/images/Airfoil_Brain.jpg" alt="Figure 1" class="blur-image" style="border-radius: 1%; width: 100%; max-width: 550px; height: auto; display: block; margin-bottom: 2ch;"/>
       <div class="overlay">Framework Development</div>
     </a>
     <a href="/research_topic2" style="position: relative; margin: 0 20px;">
