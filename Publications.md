@@ -10,7 +10,9 @@
 ### 2023
 
 - **"Evaluation of Snow Accumulation Simulation on a Train using Experimental Results"**  
+  <br>
   *Soonho Shon*, *Wan Gu Ji*, *Beomsoo Kim*, <u><strong><i>Yu-Eop Kang</i></strong></u>, *Kwanjung Yee*   
+  <br>
   *Journal of Wind Engineering and Industrial Aerodynamics*   
   [DOI](https://doi.org/10.1016/j.jweia.2022.105275)
 
