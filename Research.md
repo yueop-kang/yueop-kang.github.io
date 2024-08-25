@@ -5,7 +5,7 @@ title: Research Topic
 
 
 
-[![Research Topic 1](assets/images/test-image.jpg)](/research_topic1)
+[![Research Topic 1]](/research_topic1)
 
 [![Research Topic 2](assets/images/test-image.jpg)](/research_topic2)
 
