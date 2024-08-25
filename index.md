@@ -23,8 +23,8 @@ layout: default
    </p>
     <hr style="width: 100%; max-width: 1000px; margin-bottom: 20px;">
     <p style="line-height: 1.7;"><h3>Research highlights:</h3>
-    <li>Data processing of climatic wind tunnel test data using ML, including image processing and sparse reconstruction.</li>
-    <li>Development of reduced-order modeling algorithms to improve the accuracy, robustness, and interpretability.</li>   
+    <li>Data processing of climatic wind tunnel test data using ML, including image processing and sparse reconstruction.</li><br>
+    <li>Development of reduced-order modeling algorithms to improve the accuracy, robustness, and interpretability.</li><br> 
     <li>Development of an efficient framework for aerodynamic shape optimisation using generative modelling and surrogate models.</li>
     </p>
 </div>
