@@ -27,5 +27,5 @@ layout: default
     <li>Data processing of climatic wind tunnel test data using ML, including image processing and sparse reconstruction.</li>
     <li>Development of reduced-order modeling algorithms to improve the accuracy, robustness, and interpretability.</li>   
     <li>Development of an efficient framework for aerodynamic shape optimisation using generative modelling and surrogate models.</li>
-   
+    </p>
 </div>
