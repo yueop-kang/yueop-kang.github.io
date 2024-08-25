@@ -3,10 +3,12 @@ layout: default
 ---
 
 
-<div style="position: relative; width: fit-content;">
-  <img src="assets/images/home3.jpg" alt="Yu-Eop Kang" style="border-radius: 0%; width: 400px; height: auto; margin-left: 20px;">
-  <div style="position: absolute; bottom: 30%; left: 5%; background-color: rgba(0, 0, 0, 0.5); padding: 5px; border-radius: 5px;">
-    Yu-Eop Kang
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <div style="position: relative; width: fit-content;">
+    <img src="assets/images/home3.jpg" alt="Yu-Eop Kang" style="border-radius: 0%; width: 400px; height: auto;">
+    <div style="position: absolute; bottom: 25%; left: 12%; transform: translateX(-50%); background-color: rgba(0, 0, 0, 0.5); padding: 5px; border-radius: 5px; color: white;">
+      Yu-Eop Kang
+    </div>
   </div>
 </div>
 
