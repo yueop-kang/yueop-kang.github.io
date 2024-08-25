@@ -37,7 +37,14 @@ menu:
   - text: Research Topic
     link: /Research
     icon: ""
+    sub_menu:
+    - text: Research1
+      link: /Research/research_topic1
+      icon: ""
 
+    - text: Research2
+      link: /Research/research_topic2
+      icon: ""
   - text: Publications
     link: /Publications
     icon: ""
