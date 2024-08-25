@@ -13,8 +13,8 @@ title: Your Page Title
         </div>
         <!-- Right Side: Text Content -->
         <div style="flex: 1.5; max-width: 60%; padding-left: 20px; margin: 0;">
-            <h3 style="color: #aa0303; margin-top: 0;">Local non-intrusive reduced-order modeling based on soft clustering and classification</h3>
-            <p style="margin-top: 0;">
+            <h3 style="color: #aa0303; margin-top: 0; font-size: 2em; line-height: 1.5;">Local non-intrusive reduced-order modeling based on soft clustering and classification</h3>
+            <p style="margin-top: 0; font-size: 1em; line-height: 1.5;">
                 Local NIROM has been proposed to improve the model accuracy in highly nonlinear problems in which distinct characteristic regimes coexist. 
                 However, the existing local NIROM not only partitions the individual models in a mutually exclusive manner, but also uses a single model for prediction. 
                 This results in the extrapolation of surrogate models and the generation of artificial discontinuities. 
