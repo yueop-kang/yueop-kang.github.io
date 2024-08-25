@@ -2,7 +2,7 @@
 layout: default
 title: Research Topic
 ---
-
+<h2 style="text-align: left; margin-bottom: 70px;">Research Topics</h2>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 0px;">
     <a href="/research_topic1" style="position: relative; margin: 0 40px;">
       <img src="assets/images/Airfoil_Brain.jpg" alt="Figure 1" class="blur-image" style="border-radius: 1%; width: 100%; max-width: 500px; height: auto; display: block; margin-bottom: 40px;"/>
