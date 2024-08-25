@@ -30,3 +30,35 @@ title: Your Page Title
 </div>
 
 
+<style>
+    .content-container {
+        display: flex;
+        flex-wrap: nowrap; /* Ensures items stay in a row unless wrapped by a media query */
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+
+    .image-container {
+        flex: 1;
+        max-width: 40%;
+        padding-right: 20px;
+    }
+
+    .text-container {
+        flex: 1.5;
+        max-width: 60%;
+        padding-left: 20px;
+    }
+
+    @media screen and (max-width: 800px) {
+        .content-container {
+            flex-direction: column; /* Stack items vertically */
+        }
+        
+        .image-container, 
+        .text-container {
+            max-width: 100%; /* Ensure full width for both sections */
+            padding: 0; /* Remove padding for vertical alignment */
+        }
+    }
+</style>
