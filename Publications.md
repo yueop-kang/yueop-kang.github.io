@@ -75,7 +75,8 @@
   
   *International Journal of Heat and Mass Transfer*  
   
-  [DOI](https://doi.org/10.1016/j.ijheatmasstransfer.2019.119115)
+  <a href="https://doi.org/10.1016/j.ijheatmasstransfer.2019.119115" style="text-decoration: none; border: 1px solid  #0882D5; padding: 2.5px 5px; margin-right: 5px;">DOI</a>
+  <a href="#" style="text-decoration: none; border: 1px solid #d7d8db; padding: 2.5px 5px; color: #d7d8db">PDF</a>
 
   
 ---
@@ -87,6 +88,9 @@
   
   *AIAA AVIATION FORUM AND ASCEND 2024*   
 
+  <a href="https://doi.org/10.2514/6.2024-0685" style="text-decoration: none; border: 1px solid  #0882D5; padding: 2.5px 5px; margin-right: 5px;">DOI</a>
+  <a href="#" style="text-decoration: none; border: 1px solid #0882D5; padding: 2.5px 5px; margin-right: 5px;">Video</a>
+  <a href="#" style="text-decoration: none; border: 1px solid #0882D5; padding: 2.5px 5px;">PDF</a>
 
 - **"Physically Interpretable Airfoil Parameterization using Variational Autoencoder-based Generative Modeling"**  
   
@@ -94,16 +98,19 @@
   
   *AIAA SCITECH 2024 Forum*  
   
-  [DOI](https://doi.org/10.2514/6.2024-0685) | [Video](#)
+  <a href="https://doi.org/10.2514/6.2024-0685" style="text-decoration: none; border: 1px solid  #0882D5; padding: 2.5px 5px; margin-right: 5px;">DOI</a>
+  <a href="#" style="text-decoration: none; border: 1px solid #0882D5; padding: 2.5px 5px; margin-right: 5px;">Video</a>
+  <a href="#" style="text-decoration: none; border: 1px solid #0882D5; padding: 2.5px 5px;">PDF</a>
 
 - **"Reduced-Order modeling of Icing CFD data for Uncertainty Quantification of Icing Wind tunnel Experiments"**  
   
   <u><strong><i>Yu-Eop Kang</i></strong></u> and *Kwanjung Yee*  
   
   *International Conference on Icing of Aircraft, Engines, and Structures 2023*   
-  
-  [DOI](https://doi.org/10.4271/2023-01-1472) 
 
+  <a href="https://doi.org/10.4271/2023-01-1472" style="text-decoration: none; border: 1px solid  #0882D5; padding: 2.5px 5px; margin-right: 5px;">DOI</a>
+  <a href="#" style="text-decoration: none; border: 1px solid #0882D5; padding: 2.5px 5px; margin-right: 5px;">Video</a>
+  <a href="#" style="text-decoration: none; border: 1px solid #0882D5; padding: 2.5px 5px;">PDF</a>
 
 - **"Experimental Investigation on Bead Growth and Dispersion under Low-speed Icing Condition"**  
   
@@ -111,4 +118,4 @@
   
   *International Workshop on Atmospheric Icing of Structures 2019*  
   
-  [PDF](#) 
+  <a href="#" style="text-decoration: none; border: 1px solid #0882D5; padding: 2.5px 5px;">PDF</a>
