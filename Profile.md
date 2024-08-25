@@ -6,12 +6,12 @@
     <div style="display: flex; justify-content: flex-start; align-items: flex-start; width: 100%; max-width: 800px; margin-bottom: 10px;">
         <div style="flex-grow: 1;">
             <h1>Yu-Eop Kang</h1>
-            <span style="font-size:1.0em;"><p style="line-height: 2.0;"><strong>Ph.D. Candiate</strong><br style="margin-bottom: 10px;">
+            <span style="font-size:1.0em;"><p style="line-height: 1.7;"><strong>Ph.D. Candiate</strong><br style="margin-bottom: 10px;">
             Aerospace Engineering Department,<br>
             Seoul National University (SNU)</p>
             <p>Contact: <a href="mailto:kye72594@snu.ac.kr">kye72594@snu.ac.kr</a></p>
             <hr style="width: 100%; max-width: 800px; margin-bottom: 20px;">
-            <p style="line-height: 2.0;"><strong>Research Interests</strong>
+            <p style="line-height: 1.7;"><strong>Research Interests</strong>
             <br>
             <li>Data-driven Reduced-order Modeling</li>
             <li>ML/AI for Aircraft Design</li>
@@ -24,11 +24,11 @@
     <!-- Education Section -->
     <div style="width: 100%; max-width: 800px;">
         <h2>Education</h2>
-        <span style="font-size:1.0em;"><p style="line-height: 2.0;"><strong>M.S. to Ph.D. (2018.09 ~ 2025.02)</strong><br> Dept. of Aerospace Engineering, Seoul National University</p>
+        <span style="font-size:1.0em;"><p style="line-height: 1.7;"><strong>M.S. to Ph.D. (2018.09 ~ 2025.02)</strong><br> Dept. of Aerospace Engineering, Seoul National University</p>
         <ul>
             <li>Thesis: Efficient Performance Analysis and Design Optimization of Rotor Blades using Deep Neural Networks</li>
             <li>Advisor: Prof. Kwanjung Yee</li>
         </ul>
-        <p style="line-height: 2.0;"><strong>B.S. (2014.03 ~ 2018.08)</strong> <br> Dept. of Mechanical and Aerospace Engineering, Seoul National University</p></span>
+        <p style="line-height: 1.7;"><strong>B.S. (2014.03 ~ 2018.08)</strong> <br> Dept. of Mechanical and Aerospace Engineering, Seoul National University</p></span>
     </div>
 </div>
