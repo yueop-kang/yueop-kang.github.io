@@ -6,15 +6,15 @@ title: Research Topic
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 20px;">
     <a href="/research_topic1" style="position: relative; margin: 0 10px;">
-      <img src="assets/images/test-image.jpg" alt="Figure 1" style="border-radius: 5%; width: 100%; max-width: 400px; height: auto; display: block; margin: auto;"/>
+      <img src="assets/images/test-image.jpg" alt="Figure 1" style="border-radius: 5%; width: 100%; max-width: 400px; height: auto; display: block; margin-bottom: 10px;"/>
       <div class="overlay">Research Topic 1</div>
     </a>
     <a href="/research_topic2" style="position: relative; margin: 0 10px;">
-      <img src="assets/images/test-image.jpg" alt="Figure 2" style="border-radius: 5%; width: 100%; max-width: 400px; height: auto; display: block; margin: auto;"/>
+      <img src="assets/images/test-image.jpg" alt="Figure 2" style="border-radius: 5%; width: 100%; max-width: 400px; height: auto; display: block; margin-bottom: 10px;"/>
       <div class="overlay">Research Topic 2</div>
     </a>
     <a href="/research_topic3" style="position: relative; margin: 0 10px;">
-      <img src="assets/images/test-image.jpg" alt="Figure 3" style="border-radius: 5%; width: 100%; max-width: 400px; height: auto; display: block; margin: auto;"/>
+      <img src="assets/images/test-image.jpg" alt="Figure 3" style="border-radius: 5%; width: 100%; max-width: 400px; height: auto; display: block; margin-bottom: 10px;"/>
       <div class="overlay">Research Topic 3</div>
     </a>
   </div>

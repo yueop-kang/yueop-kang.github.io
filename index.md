@@ -28,7 +28,7 @@ layout: default
 
 ---
 
-<div style="max-width: 1000px; margin-bottom: 10px;">
+<div style="max-width: 1000px; align-items: center; margin-bottom: 10px;">
   <h1 style="margin-bottom: 10px;">About Me</h1>
   <p style="font-size: 1em; line-height: 1.7;">
    I'm <a href="/Profile" style="color: inherit; text-decoration: underline;">Yu-Eop Kang</a>, Ph.D. Candidate at Seoul National University. My research interest lies in applying ML/AI to address challenges in aerodynamic data processing, with experience spanning both experimental and numerical data. I focus on enhancing the efficiency of traditional systems, particularly in areas such as data processing, aerodynamic modeling, and shape optimization. 
