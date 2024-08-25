@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
     <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <div style="position: relative; width: fit-content;">
         <img src="assets/images/home3.jpg" alt="Yu-Eop Kang" style="border-radius: 1%; width: 400px; height: auto;">
@@ -11,9 +11,11 @@ layout: default
         </div>
     </div>
     </div>
-    <div style="position: relative; width: fit-content;">
-    <img src="assets/images/home4.jpg" alt="Another Person" style="border-radius: 1%; width: auto; height: 316px;">
-  </div>
+    <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+        <div style="position: relative; width: fit-content;">
+        <img src="assets/images/home4.jpg" alt="Another Person" style="border-radius: 1%; width: auto; height: 316px;">
+        </div>
+    </div>
 </div>
 ---
 
