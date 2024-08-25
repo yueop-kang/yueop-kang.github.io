@@ -18,7 +18,7 @@
             <li>Experimental Data Processing</li>
             </p></span>
         </div>
-        <img src="assets/images/profile3.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 300px;  height: auto; margin-left: 20px;">
+        <img src="assets/images/profile3.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 250px;  height: auto; margin-left: 10px;">
     </div>
     <hr style="width: 100%; max-width: 1000px; margin-bottom: 20px;">
     <!-- Education Section -->
