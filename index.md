@@ -19,13 +19,14 @@ layout: default
       My primary approach involves data-driven reduced-order modeling (ROM), which is essential for the efficient processing and analysis of high-dimensional data. Recently, my research has expanded to include geometric parameterization using generative AI and the development of reliable surrogate models for efficient design optimization.
     </p>
     <hr style="width: 100%; max-width: 1000px; margin-bottom: 20px;">
-    <p style="font-size: 1em; line-height: 1.7;">
-      <h3>Research highlights:</h3>
-      <ul style="list-style-position: inside; line-height: 1.3">
-        <li>Data processing of climatic wind tunnel test data using ML, including image processing and sparse reconstruction.</li>
-        <li>Development of reduced-order modeling algorithms to improve the accuracy, robustness, and interpretability.</li>
-        <li>Development of an efficient framework for aerodynamic shape optimisation using generative modelling and surrogate models.</li>
-      </ul>
-    </p>
+<h3>Research highlights:</h3>
+<p style="font-size: 1em; line-height: 1.7;">
+  <ul style="list-style-position: inside; line-height: 1.5; padding-left: 0; margin-left: 0;">
+    <li style="margin-left: 10px;">Data processing of climatic wind tunnel test data using ML, including image processing and sparse reconstruction.</li>
+    <li style="margin-left: 10px;">Development of reduced-order modeling algorithms to improve the accuracy, robustness, and interpretability.</li>
+    <li style="margin-left: 10px;">Development of an efficient framework for aerodynamic shape optimisation using generative modelling and surrogate models.</li>
+  </ul>
+</p>
+
   </div>
 </div>
