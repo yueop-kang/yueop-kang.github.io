@@ -15,15 +15,14 @@ layout: default
 ---
 
 <div style="max-width: 1000px; margin-bottom: 10px;">
-  <h1 style="margin-bottom: 20px;">About Me</h1>
+  <h1 style="margin-bottom: 10px;">About Me</h1>
   <p style="font-size: 1em; line-height: 1.7;">
-   I'm <a href="./Profile.md" style="color: inherit; text-decoration: underline;">Yu-Eop Kang</a>, Ph.D. Candidate at Seoul National University. My research interest lies in applying ML/AI to address challenges in aerodynamic data processing, with experience spanning both experimental and numerical data. I focus on enhancing the efficiency of traditional systems, particularly in areas such as data processing, aerodynamic modeling, and shape optimization. 
+   I'm <a href="/Profile" style="color: inherit; text-decoration: underline;">Yu-Eop Kang</a>, Ph.D. Candidate at Seoul National University. My research interest lies in applying ML/AI to address challenges in aerodynamic data processing, with experience spanning both experimental and numerical data. I focus on enhancing the efficiency of traditional systems, particularly in areas such as data processing, aerodynamic modeling, and shape optimization. 
    <br><br>
    My primary approach involves data-driven reduced-order modeling (ROM), which is essential for the efficient processing and analysis of high-dimensional data. Recently, my research has expanded to include geometric parameterization using generative AI and the development of reliable surrogate models for efficient design optimization.
    </p>
     <hr style="width: 100%; max-width: 1000px; margin-bottom: 20px;">
-    <p style="line-height: 1.7;"><strong>Research highlights:</strong>
-    <br>
+    <p style="line-height: 1.7;"><h3>Research highlights:</h3>
     <li>Data processing of climatic wind tunnel test data using ML, including image processing and sparse reconstruction.</li>
     <li>Development of reduced-order modeling algorithms to improve the accuracy, robustness, and interpretability.</li>   
     <li>Development of an efficient framework for aerodynamic shape optimisation using generative modelling and surrogate models.</li>
