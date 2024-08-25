@@ -6,26 +6,32 @@
     <div style="display: flex; justify-content: flex-start; align-items: flex-start; width: 100%; max-width: 800px; margin-bottom: 10px;">
         <div style="flex-grow: 1;">
             <h1>Yu-Eop Kang</h1>
-            <span style="font-size:1.0em;"><p><strong>Ph.D. Candiate</strong><br>
+            <span style="font-size:1.0em;"><p style="line-height: 2.0;"><strong>Ph.D. Candiate</strong><br style="margin-bottom: 10px;">
             Aerospace Engineering Department,<br>
             Seoul National University (SNU)</p>
             <p>Contact: <a href="mailto:kye72594@snu.ac.kr">kye72594@snu.ac.kr</a></p>
-            <p><strong>Upcoming talks</strong>
+            <!-- <p><strong>Upcoming talks</strong>
             <br>
             <li>Aviation 2024 Forum (07/30)</li>
+            </p></span> -->
+            <hr style="width: 100%; max-width: 800px; margin-bottom: 20px;">
+            <p style="line-height: 2.0;"><strong>Research Interests</strong>
+            <br>
+            <li>Data-driven Reduced-order Modeling</li>
+            <li>ML/AI for Aircraft Design</li>
+            <li>Experimental Data Processing</li>
             </p></span>
         </div>
-        <img src="assets/images/profile3.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 250px;  height: auto; margin-left: 20px;">
+        <img src="assets/images/profile3.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 300px;  height: auto; margin-left: 20px;">
     </div>
-    <hr style="width: 100%; max-width: 800px; margin-bottom: 20px;">
     <!-- Education Section -->
     <div style="width: 100%; max-width: 800px;">
         <h2>Education</h2>
-        <span style="font-size:1.0em;"><p><strong>M.S. to Ph.D. (2018.09 ~ 2025.02)</strong><br> Dept. of Aerospace Engineering, Seoul National University</p>
+        <span style="font-size:1.0em;"><p style="line-height: 2.0;"><strong>M.S. to Ph.D. (2018.09 ~ 2025.02)</strong><br> Dept. of Aerospace Engineering, Seoul National University</p>
         <ul>
             <li>Thesis: Efficient Performance Analysis and Design Optimization of Rotor Blades using Deep Neural Networks</li>
             <li>Advisor: Prof. Kwanjung Yee</li>
         </ul>
-        <p><strong>B.S. (2014.03 ~ 2018.08)</strong> <br> Dept. of Mechanical and Aerospace Engineering, Seoul National University</p></span>
+        <p style="line-height: 2.0;"><strong>B.S. (2014.03 ~ 2018.08)</strong> <br> Dept. of Mechanical and Aerospace Engineering, Seoul National University</p></span>
     </div>
 </div>
