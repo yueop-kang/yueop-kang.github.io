@@ -12,7 +12,7 @@ layout: default
     </div>
     </div>
     <div style="position: relative; width: fit-content;">
-    <img src="assets/images/home4.jpg" alt="Another Person" style="border-radius: 1%; width: 355px; height: auto;">
+    <img src="assets/images/home4.jpg" alt="Another Person" style="border-radius: 1%; width: auto; height: 316px;">
   </div>
 </div>
 ---
