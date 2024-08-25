@@ -4,20 +4,26 @@ title: Research Topic
 ---
 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 0px;">
     <a href="/research_topic1" style="position: relative; margin: 0 10px;">
       <img src="assets/images/test-image.jpg" alt="Figure 1" style="border-radius: 5%; width: 100%; max-width: 400px; height: auto; display: block; margin-bottom: 10px;"/>
-      <div class="overlay">Research Topic 1</div>
+      <div class="overlay">Framework Development</div>
     </a>
     <a href="/research_topic2" style="position: relative; margin: 0 10px;">
       <img src="assets/images/test-image.jpg" alt="Figure 2" style="border-radius: 5%; width: 100%; max-width: 400px; height: auto; display: block; margin-bottom: 10px;"/>
-      <div class="overlay">Research Topic 2</div>
+      <div class="overlay">Data-driven ROM</div>
     </a>
+</div>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 0px;">
     <a href="/research_topic3" style="position: relative; margin: 0 10px;">
-      <img src="assets/images/test-image.jpg" alt="Figure 3" style="border-radius: 5%; width: 100%; max-width: 400px; height: auto; display: block; margin-bottom: 10px;"/>
-      <div class="overlay">Research Topic 3</div>
+      <img src="assets/images/test-image.jpg" alt="Figure 1" style="border-radius: 5%; width: 100%; max-width: 400px; height: auto; display: block; margin-bottom: 10px;"/>
+      <div class="overlay">ML/AL for Aircraft Design Applications</div>
     </a>
-  </div>
+    <a href="/research_topic4" style="position: relative; margin: 0 10px;">
+      <img src="assets/images/test-image.jpg" alt="Figure 2" style="border-radius: 5%; width: 100%; max-width: 400px; height: auto; display: block; margin-bottom: 10px;"/>
+      <div class="overlay">Experimental Data Processing</div>
+    </a>
+</div>
   
   <style>
     .overlay {
