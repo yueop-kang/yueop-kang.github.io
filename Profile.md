@@ -23,12 +23,12 @@
     <hr style="width: 100%; max-width: 1000px; margin-bottom: 20px;">
     <!-- Education Section -->
     <div style="width: 100%; max-width: 1000px;">
-        <h2>Education</h2>
-        <span style="font-size:1.0em;"><p style="line-height: 1.7;"><strong>M.S. to Ph.D. (2018.09 ~ 2025.02)</strong><br> Dept. of Aerospace Engineering, Seoul National University</p>
+        <h1>Education</h1>
+        <span style="font-size:1.0em;"><p style="line-height: 1.7;"><strong>Combined M.S. and Ph.D. in Aerospace Engineering (2018.09 ~ 2025.02)</strong><br> Seoul National University, Republic of Korea</p>
         <ul>
             <li>Thesis: Efficient Performance Analysis and Design Optimization of Rotor Blades using Deep Neural Networks</li>
             <li>Advisor: Prof. Kwanjung Yee</li>
         </ul>
-        <p style="line-height: 1.7;"><strong>B.S. (2014.03 ~ 2018.08)</strong> <br> Dept. of Mechanical and Aerospace Engineering, Seoul National University</p></span>
+        <p style="line-height: 1.7;"><strong>B.S. in Mechanical and Aerospace Engineering (2014.03 ~ 2018.08)</strong> <br> Seoul National University, Republic of Korea</p></span>
     </div>
 </div>
