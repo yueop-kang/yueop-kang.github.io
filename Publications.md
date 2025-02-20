@@ -1,11 +1,21 @@
 # **Publications**
 
-### Preprints
+### 2025
+
+- **"Time-Efficient Aerodynamic Load Prediction using Reduced-Order Modeling for Ground Noise Calculation"**     
+  
+  *Soonmoung Kwon*, <u><strong><i>Yu-Eop Kang</i></strong></u>, *Yoonpyo Hong*, and *Kwanjung Yee*  
+  
+  *Journal of Aerospace Engineering*  
+
+  <a href="" style="text-decoration: none; border: 1px solid  #0882D5; padding: 2.5px 5px; margin-right: 5px; border-radius: 3px;">ARXIV</a>
+  <a href="#" style="text-decoration: none; border: 1px solid #d7d8db; padding: 2.5px 5px; color: #d7d8db; border-radius: 3px;">PDF</a>
+
 - **"Intuitive and Feasible Geometric Representation of Airfoil using Variational Autoencoder"**     
   
   <u><strong><i>Yu-Eop Kang</i></strong></u>, *Dawoon Lee*, and *Kwanjung Yee*  
   
-  *Under Review*  
+  *Journal of Computational Design and Engineering*  
   
   <a href="https://arxiv.org/abs/2311.10921" style="text-decoration: none; border: 1px solid  #0882D5; padding: 2.5px 5px; margin-right: 5px; border-radius: 3px;">ARXIV</a>
   <a href="#" style="text-decoration: none; border: 1px solid #d7d8db; padding: 2.5px 5px; color: #d7d8db; border-radius: 3px;">PDF</a>
