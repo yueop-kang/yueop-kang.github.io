@@ -40,6 +40,6 @@
     </div>
     <div style="width: 100%; max-width: 1000px;">
         <h1>Award</h1>
-        <span style="font-size:1.0em;"><p style="line-height: 1.7;"><strong>Outstanding Doctoral Degree, 2025.02</p></span>
+        <span style="font-size:1.0em;"><p style="line-height: 1.7;">Outstanding Doctoral Degree, 2025.02</p></span>
     </div>
 </div>
