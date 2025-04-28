@@ -22,10 +22,10 @@
         <img src="assets/images/profile3.jpg" alt="Yu-Eop Kang" style="border-radius: 50%; width: 250px;  height: auto; margin-left: 20px;">
     </div>
     <hr style="width: 100%; max-width: 1000px; margin-bottom: 10px;">
-    <!-- Education Section -->
+    <!-- Experience Section -->
     <div style="width: 100%; max-width: 1000px;">
         <h1>Experience</h1>
-        <span style="font-size:1.0em;"><p style="line-height: 1.7;"><strong>Postdoctoral Researcher (2025.03 ~ Present)</strong><br>  Institute of Advanced Aerospace Technology,<br> Seoul National University, Republic of Korea</p>
+        <span style="font-size:1.0em;"><p style="line-height: 1.7;"><strong>Postdoctoral Researcher (2025.03 ~ Present)</strong><br>  Institute of Advanced Aerospace Technology, Seoul National University, Republic of Korea</p></span>
     </div>
     <hr style="width: 100%; max-width: 1000px; margin-bottom: 10px;">
     <!-- Education Section -->
@@ -37,5 +37,9 @@
             <li>Advisor: Prof. Kwanjung Yee</li>
         </ul>
         <p style="line-height: 1.7;"><strong>B.S. in Mechanical and Aerospace Engineering (2014.03 ~ 2018.08)</strong> <br> Seoul National University, Republic of Korea</p></span>
+    </div>
+    <div style="width: 100%; max-width: 1000px;">
+        <h1>Award</h1>
+        <span style="font-size:1.0em;"><p style="line-height: 1.7;"><strong>Outstanding Doctoral Degree, 2025.02</p></span>
     </div>
 </div>
