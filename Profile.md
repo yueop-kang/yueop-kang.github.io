@@ -25,8 +25,7 @@
     <!-- Education Section -->
     <div style="width: 100%; max-width: 1000px;">
         <h1>Experience</h1>
-        <span style="font-size:1.0em;"><p style="line-height: 1.7;"><strong>Postdoctoral Researcher (2025.03 ~ Present)</strong><br> Seoul National University, Republic of Korea</p>
-        <p style="line-height: 1.7;"><strong>B.S. in Mechanical and Aerospace Engineering (2014.03 ~ 2018.08)</strong> <br> Seoul National University, Republic of Korea</p></span>
+        <span style="font-size:1.0em;"><p style="line-height: 1.7;"><strong>Postdoctoral Researcher (2025.03 ~ Present)</strong><br>  Institute of Advanced Aerospace Technology,<br> Seoul National University, Republic of Korea</p>
     </div>
     <hr style="width: 100%; max-width: 1000px; margin-bottom: 10px;">
     <!-- Education Section -->
