@@ -13,7 +13,7 @@ layout: default
   <div style="max-width: 1000px; text-align: left;">
     <h1 style="margin-bottom: 10px;">About Me</h1>
     <p style="font-size: 1em; line-height: 1.7;">
-      I'm <a href="/Profile" style="color: inherit; text-decoration: underline;">Yu-Eop Kang</a>, a researcher exploring how artificial intelligence can push the boundaries of engineering design by making design workflows more efficient, intuitive, and less labor-intensive.  Ph.D. Candidate at Seoul National University. My research interest lies in applying ML/AI to address challenges in aerodynamic data processing, with experience spanning both experimental and numerical data. I focus on enhancing the efficiency of traditional systems, particularly in areas such as data processing, aerodynamic modeling, and shape optimization. 
+      I'm <a href="/Profile" style="color: inherit; text-decoration: underline;">Yu-Eop Kang</a>, a researcher exploring how artificial intelligence can push the boundaries of engineering design by making design workflows more efficient, intuitive, and less labor-intensive. My research interest lies in applying ML/AI to address challenges in aerodynamic data processing, with experience spanning both experimental and numerical data. I focus on enhancing the efficiency of traditional systems, particularly in areas such as data processing, aerodynamic modeling, and shape optimization. 
       <br><br>
       My primary approach involves data-driven reduced-order modeling (ROM), which is essential for the efficient processing and analysis of high-dimensional data. Recently, my research has expanded to include geometric parameterization using generative AI and the development of reliable surrogate models for efficient design optimization.
     </p>
