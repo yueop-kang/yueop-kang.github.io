@@ -33,7 +33,7 @@
         <h1>Education</h1>
         <span style="font-size:1.0em;"><p style="line-height: 1.7;"><strong>Integrated M.S. and Ph.D. in Aerospace Engineering (2018.09 ~ 2025.02)</strong><br> Seoul National University, Republic of Korea</p>
         <ul>
-            <li>Thesis: Efficient Machine Learning Framework for Extensive Design Space Exploration of Lifting Surfaces</li>
+            <li>Thesis: Efficient Machine Learning Framework for Extensive Design Space Exploration in Aerodynamic Optimization of Lifting Surfaces</li>
             <li>Advisor: Prof. Kwanjung Yee</li>
         </ul>
         <p style="line-height: 1.7;"><strong>B.S. in Mechanical and Aerospace Engineering (2014.03 ~ 2018.08)</strong> <br> Seoul National University, Republic of Korea</p></span>
