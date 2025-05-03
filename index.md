@@ -14,7 +14,7 @@ layout: default
     <h1 style="margin-bottom: 10px;">About Me</h1>
     <p style="font-size: 1em; line-height: 1.7;">
       I'm <a href="/Profile" style="color: inherit; text-decoration: underline;">Yu-Eop Kang</a>, a researcher exploring how artificial intelligence can push the boundaries of engineering design by making design workflows more efficient, intuitive, and less labor-intensive. During my Ph.D studies, I focused on reduced-order modeling (ROM) to address the high-dimensionality of aerodynamic design problems. My research spans geometric parameterization using generative AI, the development of reliable and interpretable predictive models, the application of Bayesian optimization, and the processing of experimental data.
-      </br></br>
+      <br><br>
       Driven by curiosity and a collaborative spirit, I have worked with colleagues across diverse research areas, including rotor blade design, wind tunnel testing, aeroacoustics, and spectral analysis. These interdisciplinary experiences are reflected throughout my <a href="/Publications" style="color: inherit; text-decoration: underline;">publication record</a>. As I complete my Ph.D. in 2025, I am eager to tackle new challenges in broader domains where I can apply this expertise to innovative, real-world problems.
     </p>
     <hr style="width: 100%; max-width: 1000px; margin-bottom: 20px;">
