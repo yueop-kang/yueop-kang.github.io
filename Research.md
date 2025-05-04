@@ -10,7 +10,7 @@ title: Research Topic
       <div class="overlay">Framework Development</div>
     </a>
     <a href="/research_topic2" style="position: relative; margin: 0 40px;">
-      <img src="assets/images/ROM.jpg" alt="Figure 2" class="blur-image" style="border-radius: 1%; width: 100%; max-width: 500px; height: auto; display: block; margin-bottom: 40px;"/>
+      <img src="assets/images/research/Local_ROM.jpg" alt="Figure 2" class="blur-image" style="border-radius: 1%; width: 100%; max-width: 500px; height: auto; display: block; margin-bottom: 40px;"/>
       <div class="overlay">Data-driven ROM</div>
     </a>
 </div>
