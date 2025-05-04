@@ -9,7 +9,7 @@ title: Your Page Title
     <div class="content-container">
         <!-- Left Side: Images -->
         <div class="image-container">
-            <img src="assets/images/ROM.jpg" alt="Image 2" style="width: 100%; height: auto; margin: 0;">
+            <img src="assets/images/research/local_ROM.jpg" alt="Image 2" style="width: 100%; height: auto; margin: 0;">
         </div>
         <!-- Right Side: Text Content -->
         <div class="text-container">
@@ -27,6 +27,21 @@ title: Your Page Title
         </div>
     </div>
     <hr style="width: 100%; max-width: 1250px; margin-bottom: 10px; border: none; height: 1.5px; background-color: #d6d6d6;">
+        <div class="content-container">
+        <!-- Left Side: Images -->
+        <div class="image-container">
+            <img src="assets/images/research/PAROM_F1.png" alt="Image 2" style="width: 100%; height: auto; margin: 0;">
+            <br><br>
+            <img src="assets/images/research/PAROM_F2.png" alt="Image 2" style="width: 100%; height: auto; margin: 0;">
+        </div>
+        <!-- Right Side: Text Content -->
+        <div class="text-container">
+            <h3 style="color: #aa0303; margin-top: 0; font-size: 1.2em; line-height: 1.5;">Physics-aware reduced-order modeling of transonic flow via beta-variational autoencoder</h3>
+            <p style="margin-top: 0; font-size: 1em; line-height: 1.3;">
+                Autoencoder-based reduced-order modeling (ROM) has recently attracted significant attention, owing to its ability to capture underlying nonlinear features. However, two critical drawbacks severely undermine its scalability to various physical applications: entangled and therefore uninterpretable latent variables (LVs) and the blindfold determination of latent space dimension. In this regard, this study proposes the physics-aware ROM using only interpretable and information-intensive LVs extracted by b-variational autoencoder, which are referred to as physics-aware LVs throughout this paper. To extract these LVs, their independence and information intensity are quantitatively scrutinized in a two-dimensional transonic flow benchmark problem. Then, the physical meanings of the physics-aware LVs are thoroughly investigated and we confirmed that with appropriate hyperparameter b, they actually correspond to the generating factors of the training dataset, Mach number, and angle of attack. To the best of our knowledge, our work is the first to practically confirm that b-variational autoencoder can automatically extract the physical generating factors in the field of applied physics. Finally, physics-aware ROM, which utilizes only physics-aware LVs, is compared with conventional ROMs, and its validity and efficiency are successfully verified.
+            </p>
+        </div>
+    </div>
 </div>
 
 <style>
